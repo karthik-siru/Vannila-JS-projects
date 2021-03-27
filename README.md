@@ -7,7 +7,7 @@ ______________________ BACKGROUND-COLOUR-CHANGER_______________________
     1)  Simple colour picker ,where colours  are limited  .
     2)  Hex mode can change the background-color to all possible rgb values . (255, 255 , 255 )
     
-    <a href ="https://github.com/karthik-siru/Vannila-JS-projects/tree/main/Bg-changer"> Background-color-changer-files </a>
+   <a href ="https://github.com/karthik-siru/Vannila-JS-projects/tree/main/Bg-changer"> Background-color-changer-files </a>
     
     
  
