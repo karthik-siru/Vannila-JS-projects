@@ -1,0 +1,65 @@
+body{
+  margin: 0px ;
+  padding : 0px ;
+  background-color : #f1f8f6 ;
+}
+#line{
+  border-bottom  : 4px solid #63bddb ;
+  display: block;
+  width : 20%;
+}
+.title{
+  color : #63bddb ;
+  font-style: oblique;
+}
+
+.button{
+  outline : none ;
+  font-size: 20px ;
+  color : #63bddb ;
+  padding: 10px ;
+  margin: 5px ;
+  border : none ;
+  background-color: white ;
+}
+.button:hover{
+  background-color : #63bddb ;
+  color : white ;
+
+}
+.button:active{
+  outline: 1px solid #63bddb;
+}
+.reviews-container{
+  border : solid 4px lightgrey;
+  width : 40vh ;
+  margin: 25vh auto;
+  box-shadow: 10px 10px 10px grey ;
+  padding: 10px 0px ;
+}
+#image{
+  margin-top : 10px ;
+  width : 250px ;
+  height : 200px ;
+  border-radius: 50%;
+  border : 4px solid lightblue ;
+}
+#image:hover{
+  border : 4px solid #63bddb ;
+}
+#review{
+  padding: 10px ;
+  font-size: 20px ;
+  font-style: italic;
+  color : #525454 ;
+}
+#name{
+  font-style : italic;
+  color : #30bdbf ;
+}
+#name:hover{
+  color : black ;
+}
+#job:hover{
+  color : #30bdbf ;
+}
