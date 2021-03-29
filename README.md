@@ -10,4 +10,14 @@ ______________________ BACKGROUND-COLOUR-CHANGER_______________________
    <a href ="https://github.com/karthik-siru/Vannila-JS-projects/tree/main/Bg-changer"> Background-color-changer-files </a>
     
     
+ ____________________________REVIEWS-PAGE_______________________________
  
+    This small project contains reviews page . I made this review page by using some funny images available on internet , you can use your own . 
+    
+    It's a single page and  contains 4 hardcoded reviews 
+    
+    It also contains prev , next and random review , by using them we can toggle between the reviews . 
+    
+  <a href ="https://github.com/karthik-siru/Vannila-JS-projects/tree/main/Reviews_page"> Reviews-Page-files </a>
+    
+    
