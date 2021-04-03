@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title> Calculator </title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+
+    <div class="middle">
+      <h1 class = "title"> Calculator with Js </h1>
+
+     <table>
+
+      <tr class = "row1">
+        <input type="text" placeholder=" Input the expression here ">
+        <button type="button" name="button"> clear </button> <br>
+      </tr>
+
+      <tr class="row2" >
+        <td>
+        <button type="button" name="button" onclick="display('1')"> 1 </button>
+        <button type="button" name="button" onclick="display('2')"> 2 </button>
+        <button type="button" name="button" onclick="display('3')"> 3 </button>
+        <button type="button" name="button" onclick="display('/')"> / </button>
+        </td>
+      </tr>
+
+      <tr class="row3" >
+        <td>
+        <button type="button" name="button" onclick="display('4')"> 4 </button>
+        <button type="button" name="button" onclick="display('5')"> 5 </button>
+        <button type="button" name="button" onclick="display('6')"> 6 </button>
+        <button type="button" name="button" onclick="display('*')"> * </button>
+      </td>
+      </tr>
+
+      <tr class="row3" >
+        <td>
+        <button type="button" name="button" onclick = "display('7')"> 7 </button>
+        <button type="button" name="button" onclick = "display('8')"> 8 </button>
+        <button type="button" name="button" onclick = "display('9')"> 9 </button>
+        <button type="button" name="button" onclick = "display('-')"> - </button>
+      </td>
+      </tr>
+
+      <tr class="row4" >
+        <td>
+        <button type="button" name="button" onclick = "display('.')"> . </button>
+        <button type="button" name="button" onclick = "display('0')"> 0 </button>
+        <button type="button" name="button" onclick = "display('=')"> = </button>
+        <button type="button" name="button"> + </button>
+      </td>
+      </tr>
+
+    </table>
+
+    </div>
+
+  </body>
+
+  <script src = "app.js"type="text/javascript">  </script>
+
+</html>
