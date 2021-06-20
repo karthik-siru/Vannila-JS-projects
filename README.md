@@ -52,11 +52,9 @@ ______
  
  ###  Menu - list 
  
-   This contains a menu list of food items and some buttons to select the required items (like breakfast , lunch .) . There are some 
-   
-   social media icons ( ofc , with no links attached ) , you can toggle them , to pull them out . It is not responsive . and also note that , 
-   
-   there is no relation b/w images and names and descriptions ;)
+   This contains a menu list of food items and some buttons to select the required items (like breakfast , lunch ) . 
+   There are some social media icons ( ofc , with no links attached ) , you can toggle on them to pull them out . It is not responsive .
+   And also note that , there is no relation b/w images and names and descriptions ;)
    
    [files](https://github.com/karthik-siru/Vannila-JS-projects/tree/main/menu_list) <br>
    [Website-Link]()<br>
