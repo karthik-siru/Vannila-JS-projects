@@ -1,0 +1,130 @@
+*{
+    box-sizing: border-box;
+}
+html{
+    min-height : 100%; 
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    background-image: url("images/item10.jpg");
+    background-size: cover;
+    background-position: center ;
+    background-repeat: no-repeat;
+}
+
+.section_heading{
+    background-color: khaki;
+    color :darkslategrey;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+}
+
+.section_buttons{
+    text-align: center ;
+}
+.btn{
+    padding : 6px ;
+    font-size: large;
+    border :none ;
+    background-color: white ;
+    color :darkkhaki;
+    font-family: 'Nunito', sans-serif;
+    border-radius: 12% ;
+    display: inline-block;
+    margin-right: 2% ;
+    transition : 0.3s ;
+}
+
+.btn:hover{
+    background-color: darkolivegreen;
+    color : white ;
+    transform: scale(1.2);
+}
+
+.section_menu{
+    text-align: center ;
+}
+.section_item{
+    width : 25% ;
+    display: inline-block;
+    vertical-align:baseline ;
+    margin : 4% 2%  ;
+    background-color: white ;
+    border-radius: 8% ;
+    padding : 20px ;
+}
+.hover_effect{
+    overflow : hidden ; 
+}
+
+.item_photo{
+    width :85% ;
+    border-radius: 8%;
+    transition : 0.6s ;
+}
+.item_photo:hover{
+    transform: scale(1.6);
+}
+
+.item_name , .item_price{
+    color :chocolate ;
+    display: inline-block;
+    text-align :justify;
+    font-family: 'Nunito', sans-serif;
+    margin-bottom : 0 ;
+}
+
+.item_name{
+    color :darkolivegreen;
+    font-family: 'Dancing Script', cursive;
+    margin-right: 4%;
+}
+.item_detail{
+    width : 85% ;
+    text-align: center ;
+    margin: 0  auto ;
+    opacity: 0.6 ;
+    font-family: 'Nunito', sans-serif;
+}
+.social_media_wrap{
+    text-align :right ;
+    position :fixed  ;    
+    right : 0% ;
+    bottom : 15% ;
+}
+
+.social_media{
+    margin-bottom  : 4px ;
+    display: inline-block; 
+    font-size : 32px ;
+    color : white ;
+    padding : 10px ;
+    border-radius: 5px ;
+    margin-right   : -135px ;
+    transition : 0.6s ;
+    text-decoration: none ;
+}
+.twitter{
+    margin-right : -100px ;
+}
+.github{
+    margin-right : -100px ;
+}
+
+.social_media:hover{
+    margin-right   : 0px ; 
+}
+
+.section_footer{
+   background-color: khaki;
+   text-align: center ;
+   padding : 2% 0 ; 
+}
+.section_footer a{
+    color : darkolivegreen ;
+    text-decoration: none ;
+    padding : 0 4% ;
+}
+
