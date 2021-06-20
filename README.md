@@ -1,18 +1,19 @@
 # Vannila-JS-projects
+______
 
 
-
-### 1) BACKGROUND-COLOUR-CHANGER
+###  BACKGROUND-COLOUR-CHANGER
 
    This small project contains two html files , one css file , and two javascript files .  There are two modes available .
     
    1)  Simple colour picker ,where colours  are limited  .
    2)  Hex mode can change the background-color to all possible rgb values . (255, 255 , 255 )
     
-  [Background changer files](https://github.com/karthik-siru/Vannila-JS-projects/tree/main/Bg-changer)
+  [files](https://github.com/karthik-siru/Vannila-JS-projects/tree/main/Bg-changer)
     
+______
     
-###  2) REVIEWS-PAGE
+###  REVIEWS-PAGE
  
    This small project contains reviews page . I made this review page by using some funny images available on internet , you can use your own . 
 
@@ -20,11 +21,11 @@
 
    It also contains prev , next and random review , by using them we can toggle between the reviews . 
     
-  [Reviews-Page-files](https://github.com/karthik-siru/Vannila-JS-projects/tree/main/Reviews_page)<br>
+  [files](https://github.com/karthik-siru/Vannila-JS-projects/tree/main/Reviews_page)<br>
   
+______  
   
-  
-### 3) CALCULATOR  
+### CALCULATOR  
   
    
    This small project contains a html file , stylesheet and javascript file . This is a simple calculator , with basic operations 
@@ -36,11 +37,30 @@
      
   [files](https://github.com/karthik-siru/Vannila-JS-projects/tree/main/calculator)<br>
   
-### 4) HAMBURGER-NAV-BAR
+ _______
+  
+### HAMBURGER-NAV-BAR
 
    This small project contains one html files , one css file , and one javascript files . Hamburger-button provided to toggle the menu . 
     
    Also contains a background image from pexels .
     
    [files](https://github.com/karthik-siru/Vannila-JS-projects/tree/main/navigation-bar) <br>
+   
+   
+ _____
+ 
+ ###  Menu - list 
+ 
+   This contains a menu list of food items and some buttons to select the required items (like breakfast , lunch .) . There are some 
+   
+   social media icons ( ofc , with no links attached ) , you can toggle them , to pull them out . It is not responsive . and also note that , 
+   
+   there is no relation b/w images and names and descriptions ;)
+   
+   [files](https://github.com/karthik-siru/Vannila-JS-projects/tree/main/menu_list) <br>
+   [Website-Link]()<br>
+   ![sample-pic](https://github.com/karthik-siru/Vannila-JS-projects/blob/main/menu_list/sample.jpg)<br>
+   
+   _________
     
