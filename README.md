@@ -22,6 +22,7 @@ ______
    It also contains prev , next and random review , by using them we can toggle between the reviews . 
     
   [files](https://github.com/karthik-siru/Vannila-JS-projects/tree/main/Reviews_page)<br>
+  [link](https://karthik-siru.github.io/Vannila-JS-projects/Reviews_page/)<br>
   
 ______  
   
