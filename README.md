@@ -48,6 +48,7 @@ ______
    Also contains a background image from pexels .
     
    [files](https://github.com/karthik-siru/Vannila-JS-projects/tree/main/navigation-bar) <br>
+   [link](https://karthik-siru.github.io/Vannila-JS-projects/navigation-bar/)<br>
    
    
  _____
@@ -59,7 +60,7 @@ ______
    And also note that , there is no relation b/w images and names and descriptions ;)
    
    [files](https://github.com/karthik-siru/Vannila-JS-projects/tree/main/menu_list) <br>
-   [Website-Link](https://karthik-siru.github.io/Vannila-JS-projects/menu_list/)<br>
+   [Link](https://karthik-siru.github.io/Vannila-JS-projects/menu_list/)<br>
    ![sample-pic](https://github.com/karthik-siru/Vannila-JS-projects/blob/main/menu_list/sample.jpg)<br>
    
    _________
