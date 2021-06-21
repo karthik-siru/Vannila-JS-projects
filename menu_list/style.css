@@ -45,6 +45,7 @@ body{
 
 .section_menu{
     text-align: center ;
+     min-height : calc(100vh - 3.4rem - 76px );
 }
 .section_item{
     width : 25% ;
