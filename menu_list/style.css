@@ -5,6 +5,7 @@ html{
     min-height : 100%; 
 }
 
+
 body{
     padding: 0;
     margin: 0;
@@ -45,23 +46,23 @@ body{
 
 .section_menu{
     text-align: center ;
-     min-height : calc(100vh - 3.4rem - 76px );
+    min-height : calc(100vh - 3.4rem - 76px );
 }
 .section_item{
     width : 25% ;
     display: inline-block;
-    vertical-align:baseline ;
+    vertical-align:middle ;
     margin : 4% 2%  ;
     background-color: white ;
     border-radius: 8% ;
-    padding : 20px ;
+    padding : 1rem ;
 }
 .hover_effect{
     overflow : hidden ; 
 }
 
 .item_photo{
-    width :85% ;
+    width :90% ;
     border-radius: 8%;
     transition : 0.6s ;
 }
@@ -87,6 +88,7 @@ body{
     text-align: center ;
     margin: 0  auto ;
     opacity: 0.6 ;
+    font-size: 1rem ;
     font-family: 'Nunito', sans-serif;
 }
 .social_media_wrap{
@@ -123,9 +125,31 @@ body{
    text-align: center ;
    padding : 2% 0 ; 
 }
+
 .section_footer a{
     color : darkolivegreen ;
     text-decoration: none ;
     padding : 0 4% ;
 }
 
+
+@media ( max-width : 40rem  ){
+    .section_item{
+       width : 80% ;
+    }
+
+    .item_detail{
+        font-size :0.75rem ;
+    }
+    .item_name {
+        font-size: 1.2rem ;
+    }
+}
+@media (max-width : 50rem ){
+    .item_detail{
+        font-size :0.75rem ;
+    }
+    .item_name {
+        font-size: 1.2rem ;
+    }
+}
